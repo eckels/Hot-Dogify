@@ -1,0 +1,11 @@
+    <div class="icecream">
+      <div id="targetDivider">
+            <p class="stem">C</p>
+          <div class="cherry"></div>
+        <div class="scoop1">e</div>
+        <div class="scoop5">e</div>
+        <div class="scoop6">e</div>
+        <div class="scoop7">e</div>
+          <div class="cone"></div>
+      </div>
+    </div>

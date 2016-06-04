@@ -1,0 +1,115 @@
+body {
+  background-color: #1e90ff;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Leckerli One', cursive;
+  font-size: 900%;
+  color: white;
+  text-shadow: black 7px 7px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.form {
+  text-align: center;
+  margin-top: -70px;
+}
+
+.center_input {
+  border: none;
+  font-size: 175%;
+  padding: 10px;
+  outline: none;
+  width: 410px;
+  border-radius: 5px;
+}
+
+.submit {
+  color: white;
+  background-color: #ff4e4e;
+  border: none;
+  font-size: 200%;
+  padding: 10px;
+  margin-top: 20px;
+  outline: none;
+  border-bottom: solid #2a2a2a 3px;
+  border-right: solid #2a2a2a 3px;
+  cursor: pointer;
+  margin-bottom: 50px;
+  border-radius: 5px;
+}
+
+.submit:active {
+  border: none;
+}
+
+#inside {
+  color: yellow;
+  text-shadow: black 1px 1px;
+  text-align: center;
+  font-family: 'Leckerli One', cursive;
+  font-size: 350%;
+  padding: 2px;
+  margin-top: 0px;
+}
+
+.dog {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  background-color: #ff4e4e;
+  width: 420px;
+  height: 80px;
+  text-align: center;
+  float: left;
+}
+
+.dog_end1 {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  height: 80px;
+  width: 80px;
+  background-color: #ff4e4e;
+  float: left;
+  border-radius: 50%;
+  margin-right: -40px;
+}
+
+.dog_end2 {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  height: 80px;
+  width: 80px;
+  background-color: #ff4e4e;
+  float: left;
+  border-radius: 50%;
+  margin-left: -40px;
+}
+
+.bun {
+  background-color: #f7b985;
+  height: 170px;
+  width: 500px;
+  border-radius: 40px;
+}
+
+#hotdog {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.footer_link {
+  text-decoration: none;
+  color: black;
+  font-size: 90%;
+  margin-right: 10px;
+}
